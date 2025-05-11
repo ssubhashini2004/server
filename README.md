@@ -1,4 +1,4 @@
-**Voice Journal Backend API 🗄️🎙️**
+## Voice Journal Backend API 🗄️🎙️
 
 Powering the Voice Journal app with secure user authentication, speech-to-text processing, and intelligent entry organization. This RESTful API handles voice data conversion, entry storage, and search functionality for the Voice Journal frontend. Refer to our frontend to know more about the project:
 
@@ -6,7 +6,7 @@ Powering the Voice Journal app with secure user authentication, speech-to-text p
 
 🚀 Deployment: Hosted on Render
 
-**Features**
+## Features
 
 Core Functionality
 
@@ -20,7 +20,7 @@ Search & Filter: Full-text search across entries and filtering by date/tags.
 
 Audio File Handling: Secure storage/retrieval of transcription of voice recordings.
 
-**Advanced Capabilities**
+## Advanced Capabilities
 
 Auto-Tagging: NLP-based keyword extraction to categorize entries (e.g., "work", "ideas").
 
@@ -42,7 +42,7 @@ Auto-Tagging: NLP-based keyword extraction to categorize entries (e.g., "work", 
 
 **Auth:** JSON Web Tokens (JWT) + bcrypt
 
-**Installation**
+## Installation
 
 Clone the repo:
 
@@ -52,7 +52,7 @@ git clone https://github.com/ssubhashini2004/server.git
 cd server
 
 
-**Contributing**
+## Contributing
 
 Follow the frontend contribution guidelines.
 
