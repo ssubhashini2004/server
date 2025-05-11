@@ -1,6 +1,6 @@
-Voice Journal Backend API 🗄️🎙️
+**Voice Journal Backend API 🗄️🎙️**
 
-Powering the Voice Journal app with secure user authentication, speech-to-text processing, and intelligent entry organization. This RESTful API handles voice data conversion, entry storage, and search functionality for the Voice Journal frontend.
+Powering the Voice Journal app with secure user authentication, speech-to-text processing, and intelligent entry organization. This RESTful API handles voice data conversion, entry storage, and search functionality for the Voice Journal frontend. Refer to our frontend to know more about the project:
 
 🔗 Frontend Repository: [https://github.com/ssubhashini2004/smart-journal-frontend]
 
@@ -25,15 +25,22 @@ Audio File Handling: Secure storage/retrieval of transcription of voice recordin
 Auto-Tagging: NLP-based keyword extraction to categorize entries (e.g., "work", "ideas").
 
 
-**Tech Stack**
+## 🚀 Tech Stack
 
-Framework: Node.js + Express
+- **Node.js** – JavaScript runtime environment
+- **Express.js** – Web framework for building RESTful APIs
+- **MongoDB Atlas** – Cloud-hosted NoSQL database
+- **Mongoose** – ODM for MongoDB object modeling
+- **CORS** – Cross-origin request support
+- **Dotenv** – Environment variable management
 
-Database: MongoDB via MongoDB Atlas
+**Framework**: Node.js + Express
 
-Speech-to-Text: Using deepgram API [https://deepgram.com/]
+**Database**: MongoDB via MongoDB Atlas
 
-Auth: JSON Web Tokens (JWT) + bcrypt
+**Speech-to-Text:** Using deepgram API [https://deepgram.com/]
+
+**Auth:** JSON Web Tokens (JWT) + bcrypt
 
 **Installation**
 
